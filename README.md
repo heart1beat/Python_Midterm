@@ -27,4 +27,4 @@ print(D)
 ```
 
 # 實作
-![image]https://github.com/heart1beat/Python_Midterm/blob/main/messageImage_1712648963334.jpg
+![image](https://github.com/heart1beat/Python_Midterm/blob/main/messageImage_1712648963334.jpg)
